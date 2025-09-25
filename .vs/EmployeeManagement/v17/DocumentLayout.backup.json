@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|c:\\users\\chitransh.shukla\\desktop\\employeeproject\\employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|c:\\users\\chitransh.shukla\\desktop\\employeeproject\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|c:\\users\\chitransh.shukla\\desktop\\employeeproject\\employeemanagement\\views\\employee\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|solutionrelative:views\\employee\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|c:\\users\\chitransh.shukla\\desktop\\employeeproject\\employeemanagement\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|c:\\users\\chitransh.shukla\\desktop\\employeeproject\\employeemanagement\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|c:\\users\\chitransh.shukla\\desktop\\employeeproject\\employeemanagement\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|c:\\users\\chitransh.shukla\\desktop\\employeeproject\\employeemanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|c:\\users\\chitransh.shukla\\desktop\\employeeproject\\employeemanagement\\controllers\\employeeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|solutionrelative:controllers\\employeeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|c:\\users\\chitransh.shukla\\desktop\\employeeproject\\employeemanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|c:\\users\\chitransh.shukla\\desktop\\employeeproject\\employeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|c:\\users\\chitransh.shukla\\desktop\\employeeproject\\employeemanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|c:\\users\\chitransh.shukla\\desktop\\employeeproject\\employeemanagement\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|c:\\users\\chitransh.shukla\\desktop\\employeeproject\\employeemanagement\\employeemanagement\\obj\\employeemanagement.csproj.entityframeworkcore.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|solutionrelative:employeemanagement\\obj\\employeemanagement.csproj.entityframeworkcore.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|c:\\users\\chitransh.shukla\\desktop\\employeeproject\\employeemanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A03D8E-F146-47B6-8784-00D34665DDEC}|EmployeeManagement.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 305,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 148,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T05:29:49.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\Views\\Employee\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\List.cshtml",
+              "ToolTip": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\Views\\Employee\\List.cshtml",
+              "RelativeToolTip": "Views\\Employee\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T10:50:21.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T10:49:40.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:00:20.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-28T09:59:11.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-28T10:01:31.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T12:20:44.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeApiController.cs",
+              "DocumentMoniker": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\Controllers\\EmployeeApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeApiController.cs",
+              "ToolTip": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\Controllers\\EmployeeApiController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeApiController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwDIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:36:19.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:26:46.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:59:58.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:59:28.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T09:41:10.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeManagement.csproj.EntityFrameworkCore.targets",
+              "DocumentMoniker": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\EmployeeManagement\\obj\\EmployeeManagement.csproj.EntityFrameworkCore.targets",
+              "RelativeDocumentMoniker": "EmployeeManagement\\obj\\EmployeeManagement.csproj.EntityFrameworkCore.targets",
+              "ToolTip": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\EmployeeManagement\\obj\\EmployeeManagement.csproj.EntityFrameworkCore.targets",
+              "RelativeToolTip": "EmployeeManagement\\obj\\EmployeeManagement.csproj.EntityFrameworkCore.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-08-27T10:53:39.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\chitransh.shukla\\Desktop\\EmployeeProject\\EmployeeManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:40:59.446Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 42,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
